@@ -18,7 +18,6 @@ The project utilizes a modern full-stack architecture for cross-platform perform
     * **React Navigation**: For smooth and native-feeling transitions.
 * **Backend**:
     * [Node.js](https://nodejs.org/) & [Express](https://expressjs.com/): Building the RESTful API services.
-    * [PHP](https://www.php.net/): Powering server-side scripts for user management.
 * **Database**:
     * [MySQL](https://www.mysql.com/): Structured data storage for user profiles and matching logs.
 * **DevOps & Tools**:
